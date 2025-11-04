@@ -8,9 +8,8 @@
 - Share tutorials & code for open-source enthusiasts
 
 ### 🔧 Projects
-- **Josh** – AI Vtuber chatbot
+- **Josh / Neura** – AI Vtuber chatbot
 - **NeuraBPE** – Custom BPE Tokenizer
-- **TinyTrainer** – Efficient training scripts for local fine-tuning
 
 ### 🎥 Content
 Find tips, devlogs, and showcases on our [YouTube Channel](https://www.youtube.com/@NeuraGenV)
