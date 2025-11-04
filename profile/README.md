@@ -12,7 +12,6 @@
 - **NeuraBPE** – Custom BPE Tokenizer
 
 ### 🎥 Content
-Find tips, devlogs, and showcases on our [YouTube Channel](https://www.youtube.com/@NeuraGenV)
 
 ---
 
